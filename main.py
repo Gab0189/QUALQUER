@@ -1,4 +1,3 @@
-nome
 meme_dict = {
     "BISCOITAR": "fazer algo apenas para chamar a atenção",
     "HATER": "pessoa que está constantemente criticando os outros",
